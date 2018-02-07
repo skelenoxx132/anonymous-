@@ -1,0 +1,14 @@
+Salut a toi merci d'avois télécharger le SmegHack pour Gmod
+
+
+Voici Les Commandes Pour Utiliser Le Cheat
+
+Commande De Bind Pour Ouvrir Le Mod Menu : bind p SmegHack_Menu
+
+Commande A Faire Dans La Console Pour Activer Le Cheat : lua_openscript_cl smeg_hack.lua
+
+Merci De Laisser Un Commantaire Et Un Petit Like Sur Ma Video :)
+
+[FedZilla]
+
+rp_mssclick_evocity2018

@@ -1,0 +1,17 @@
+#1
+LANCER UNE PARTIE EN MODE OFFLINE
+marquez ces commandes : 
+load1
+load2
+lua_openscript_cl noclip.lua
+lua_openscript_cl exploits.lua
+bind k +bh_menu
+
+#2
+LANCER UNE PARTIE EN LIGNE SANS PROTECTION ANTI CHEATS
+marquez ces commandes :
+load1
+load2
+incrementvar sv_allowcslua 1(desactive la protection anti cheat)
+lua_openscript_cl noclip.lua
+lua_openscript_cl exploits.lua
